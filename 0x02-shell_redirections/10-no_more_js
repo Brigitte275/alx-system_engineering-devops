@@ -1,2 +1,2 @@
 #!/biin/bash
-find.-typef-name"*.js"-delete
+find . -type f -name "*.js" -delete
